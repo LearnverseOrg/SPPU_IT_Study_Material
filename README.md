@@ -1,25 +1,13 @@
-<h1 align="center">SPPU IT Study Material</h1>
-
-<p align='center'>
-  <a href="https://learnverxe.com">
-    Learnverse
+<p align="center">
+  <a href="https://learnverxe.com" target="_blank" rel="noopener">
+    <img src="banner.png" alt="Learnverxe banner" width="100%" />
   </a>
 </p>
 
-**Join our Telegram group [here!](https://t.me/sppuinformationtechnology)**
+---
 
-<hr>
-<p align='center'><img width="50%" src="https://www.parthsali.me/meme.png"></img></p>
-<hr>
+**All SPPU IT study material has moved to [Learnverxe](https://learnverxe.com).**
 
-> Click :star: if you like the repo. Pull Requests are highly appreciated.
+Join our Telegram community: [https://t.me/sppuinformationtechnology](https://t.me/sppuinformationtechnology)
 
-## [Second Year Study Material](docs/SE.md)
-
-## [Third Year Study Material](docs/TE.md)
-
-## [Final Year Study Material](docs/BE.md)
-
-<hr>
-
-<p align='center'>Visitors Count <br><img align="center" alt="Repo Visitors" src="https://profile-counter.glitch.me/parthsali/count.svg"/></p>
+> This repository is now an archive. For the latest notes, PDFs and updates, please visit Learnverxe.

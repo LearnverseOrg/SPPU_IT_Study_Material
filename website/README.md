@@ -1,1 +1,0 @@
-# SPPU IT Study Hub
