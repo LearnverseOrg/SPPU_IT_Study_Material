@@ -6,8 +6,8 @@
 
 ---
 
-**All SPPU IT study material has moved to [Learnverxe](https://learnverxe.com).**
+**All SPPU IT study material has moved to [Learnverse](https://learnverxe.com).**
 
 Join our Telegram community: [https://t.me/sppuinformationtechnology](https://t.me/sppuinformationtechnology)
 
-> This repository is now an archive. For the latest notes, PDFs and updates, please visit Learnverxe.
+> This repository is now an archive. For the latest notes, PDFs and updates, please visit Learnverxe.com
