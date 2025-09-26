@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://learnverxe.com" target="_blank" rel="noopener">
-    <img src="banner.png" alt="Learnverxe banner" width="100%" />
+    <img src="http://learnverxe.com/banner.png" alt="Learnverxe banner" width="100%" />
   </a>
 </p>
 
